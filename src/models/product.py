@@ -1,2 +1,4 @@
-def get_total_price(price):
-    return price
+
+def get_total_price():
+    pass
+
