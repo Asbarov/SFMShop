@@ -4,3 +4,5 @@ def payment(age):
 def paypal():
     pass
 
+def amir():
+    pass
