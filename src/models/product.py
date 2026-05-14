@@ -4,3 +4,6 @@ def get_total_price():
 def get_total_discount():
     pass
 
+def calculate_shipping():
+    pass
+
